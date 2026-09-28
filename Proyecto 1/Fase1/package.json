@@ -1,0 +1,18 @@
+{
+  "name": "proyecto1-fase1",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Raybel Martínez",
+  "type": "commonjs",
+  "main": "fase1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fase1.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.1.0"
+  }
+}
